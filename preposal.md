@@ -2,12 +2,13 @@
 
 ## What idea(s) do you have for your final project?
 
-A robotic shoe-sized ant
+  - A robotic shoe-sized ant
 
-A compression algorithm
+  - A compression algorithm
 
-A platform for college students to connect
+  - A platform for college students to connect
 
+  - Exoskeleton
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 I do not
